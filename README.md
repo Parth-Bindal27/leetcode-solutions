@@ -27,10 +27,12 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -48,4 +50,16 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
