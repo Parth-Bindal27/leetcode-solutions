@@ -10,11 +10,13 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
