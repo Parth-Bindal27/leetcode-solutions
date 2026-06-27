@@ -18,6 +18,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | ------- |
 | [0050-powx-n](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0050-powx-n) |
 | [0415-add-strings](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
