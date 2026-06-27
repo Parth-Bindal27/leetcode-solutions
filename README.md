@@ -80,4 +80,20 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
