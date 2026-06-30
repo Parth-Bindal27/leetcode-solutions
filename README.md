@@ -34,6 +34,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | ------- |
 | [0189-rotate-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1436-destination-city](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1436-destination-city) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -42,6 +43,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1436-destination-city](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1436-destination-city) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -81,6 +83,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0415-add-strings](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [1436-destination-city](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1436-destination-city) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Enumeration
 |  |
