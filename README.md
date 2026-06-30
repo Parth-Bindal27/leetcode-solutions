@@ -34,6 +34,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | ------- |
 | [0189-rotate-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1436-destination-city](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1436-destination-city) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -121,4 +122,8 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Matrix
+|  |
+| ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
