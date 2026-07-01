@@ -23,6 +23,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0492-construct-the-rectangle](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3099-harshad-number) |
 ## Dynamic Programming
 |  |
