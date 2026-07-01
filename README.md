@@ -39,6 +39,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1436-destination-city](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1436-destination-city) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1929-concatenation-of-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
