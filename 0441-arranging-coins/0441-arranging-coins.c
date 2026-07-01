@@ -1,17 +1,10 @@
 int arrangeCoins(int n) {
-    int coins = n;
-    int count = 0;
-    
-    for (int i = 1; i <= n; i++) {
+    int row = 1;
 
-        if (coins >= i) {
-            coins -= i;
-            count++;
-        }
-        else {
-            return count;
-        }
+    while (n >= row) {
+        n -= row;
+        row++;
     }
 
-    return count;
+    return row - 1;
 }
