@@ -89,6 +89,7 @@ A collection of LeetCode solutions covering arrays, strings, linked lists, trees
 | [0415-add-strings](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [1436-destination-city](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1436-destination-city) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Parth-Bindal27/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Enumeration
